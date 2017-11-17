@@ -1,1 +1,1 @@
-# Code_for_Delphi
+# Código para utilizar en Delphi y Lazarus 
